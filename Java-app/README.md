@@ -1,2 +1,0 @@
-Java-app
-java script
